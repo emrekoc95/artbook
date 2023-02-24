@@ -1,7 +1,4 @@
 # artbook
-This is an application that gives the user an opportunity to save artworks. 
-Arts can be added or deleted in the local database.
-Room is used to handle database process.
-Rxjava is used for Reactive Programming.
-Fragments are used to show UI.
-Navigation Component is used to navigate Fragments.
+This application that allows the user to save artwork is written in Java. 
+Arts can be added or deleted in the local database that is implemented by using Room. 
+Rxjava is used for Reactive Programming and Navigation component is used to navigate Fragments.
